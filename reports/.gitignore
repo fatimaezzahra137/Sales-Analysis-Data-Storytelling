@@ -1,0 +1,19 @@
+# Python - Fichiers de compilation et cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook - Fichiers temporaires
+.ipynb_checkpoints/
+
+# Environnement virtuel (si tu en utilises un plus tard)
+venv/
+env/
+.env
+
+# VS Code - Fichiers de configuration locale
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
