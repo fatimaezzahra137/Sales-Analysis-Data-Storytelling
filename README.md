@@ -46,4 +46,4 @@ Cet insight est crucial : il montre que malgré un prix élevé, la demande rest
 - **IDE** : Visual Studio Code / Jupyter Notebook
 
 ---
-*Projet réalisé par **Fatima Ezzahra Barradi**. Si vous avez des questions sur la méthodologie ou le code, n'hésitez pas à me contacter sur [LinkedIn] !*
+*Projet réalisé par **Fatima Ezzahra Barradi**. Si vous avez des questions sur la méthodologie ou le code, n'hésitez pas à me contacter sur [https://www.linkedin.com/in/fatima-ezzahra-barradi-1b8776312/] !*
